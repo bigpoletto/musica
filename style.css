@@ -1,0 +1,60 @@
+.teste{
+  background-image: url(musica.jpg);
+}
+
+.teclado{
+    background-color: yellow;
+    font-size: 14px;
+    font-family: arial;
+    color: yellow;
+}
+
+.espaco-texto{
+  margin: 50px 0;
+  padding: 10px;
+}
+
+footer{
+  background-color:#241F0A;
+  color: #FFDE46;
+  padding: 20px 10px;
+}
+
+.div-footer{
+  padding: 10px ;
+}
+
+#cards{
+  padding: 50px 0 ;
+}
+
+.nav-link{
+  color: lightyellow;
+  font-size: x-large;
+  font-weight: 700;
+}
+
+.nav-link:hover{
+  color: greenyellow;
+  font-weight: 700;
+}
+
+.nav-item{
+    right: 200px
+}
+
+#container {
+  display: inline-block;
+  position: relative;
+}
+
+#container figcaption {
+  position: absolute;
+  top: 145px;
+  right: 20px;
+  font-size: 40px;
+  font-family: lucida sans;
+  font-style: italic;
+  color: yellow;
+  text-shadow: 0px 0px 5px black;
+}
